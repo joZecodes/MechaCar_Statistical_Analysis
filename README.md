@@ -26,7 +26,7 @@
 ### T-Test all manufacturing lots against the population mean
 
 <p align="center">
-    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/all%20lots%20against%20the%20population%20mean.png"> 
+    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/t_test_coil.png"> 
 </p>
 
 ### T-Tests each manufacturing lot against the population mean
@@ -34,7 +34,7 @@
 #### Lot1
 
 <p align="center">
-    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/each%20lots%20against%20the%20population%20mean.png"> 
+    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/t_test_lot1.png"> 
 </p>
 
 <br>
@@ -42,10 +42,10 @@
 #### Lot2 and Lot3
 
 <p align="center">
-    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/lot%202.png"><br>Lot 2  
+    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/t_test_lot2.png"><br>Lot 2  
 </p>
 <p align="center">
-    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/lot%203.png"><br>Lot3
+    <img src="https://github.com/joZecodes/MechaCar_Statistical_Analysis/blob/main/t_test_lot3.png"><br>Lot3
 </p>
 
 <br>
